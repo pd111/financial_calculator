@@ -1,3 +1,9 @@
+#financial_calculator.py
+#Goal: Script for solving time-value money problems
+#Author: Paritosh Dash
+#Created: May-16th-2020
+#---------------------------------------------------------------
+
 import numpy as np
 import sys
 
